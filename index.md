@@ -21,7 +21,7 @@ Clean, campus-focused graduation photos with simple pricing and flexible package
 - **3 locations** — **$175**
 - **5 locations** — **$200**
 
-[View packages](packages.md)
+[Packages]({{ "/packages.html" | relative_url }})
 
 ## Popular UF locations
 
@@ -43,7 +43,7 @@ I also offer:
 
 Portrait sessions follow similar pricing and can be customized based on location and time.
 
-[Contact to book](contact.md)
+[Contact to book]({{ "/contact.html" | relative_url }})
 - Plaza of the Americas
 - Century Tower
 - Library West
@@ -51,4 +51,4 @@ Portrait sessions follow similar pricing and can be customized based on location
 - Your major’s building
 
 ## Ready to book?
-[Contact / book here](contact.md)
+[Contact / Book Here]({{ "/contact.html" | relative_url }})
