@@ -42,4 +42,4 @@ Contact for a custom quote based on your idea.
 - Group and friend add-ons available.
 - Turnaround time and extras are listed on the add-ons page.
 
-[See add-ons](add-ons.md)
+[See add-ons]({{ "/add-ons.html" | relative_url }})

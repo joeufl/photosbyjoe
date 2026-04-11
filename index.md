@@ -21,7 +21,7 @@ Clean, campus-focused graduation photos with simple pricing and flexible package
 - **3 locations** — **$175**
 - **5 locations** — **$200**
 
-[Packages]({{ "/packages.html" | relative_url }})
+[See full packages]({{ "/packages.html" | relative_url }})
 
 ## Popular UF locations
 
@@ -31,6 +31,11 @@ Clean, campus-focused graduation photos with simple pricing and flexible package
 - Murphree Area arch
 - Albert and Alberta
 - Your college sign
+- Plaza of the Americas
+- Century Tower
+- Library West
+- The stadium exterior
+- Your major's building
 
 ## Portrait sessions
 
@@ -41,14 +46,13 @@ I also offer:
 - Couples sessions
 - Casual / lifestyle shoots
 
-Portrait sessions follow similar pricing and can be customized based on location and time.
+Portrait sessions start at **$120** and can be customized based on location and time.
 
 [Contact to book]({{ "/contact.html" | relative_url }})
-- Plaza of the Americas
-- Century Tower
-- Library West
-- The stadium exterior
-- Your major’s building
+
+## Questions?
+
+[See the FAQ]({{ "/faqs.html" | relative_url }})
 
 ## Ready to book?
 [Contact / Book Here]({{ "/contact.html" | relative_url }})
