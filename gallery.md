@@ -33,9 +33,12 @@ title: Gallery
 <div class="gallery-grid">
   <img src="{{ site.baseurl }}/photos/lifestyle/DSC3453.jpg" alt="Lifestyle photo 1">
   <img src="{{ site.baseurl }}/photos/lifestyle/DSC3481.jpg" alt="Lifestyle photo 2">
-
-  <img src="{{ site.baseurl }}/photos/lifestyle/IMG_7922.jpg" alt="Lifestyle photo 4">
-  <img src="{{ site.baseurl }}/photos/lifestyle/IMG_8029.jpg" alt="Lifestyle photo 5">
+  <img src="{{ site.baseurl }}/photos/lifestyle/IMG_7922.jpg" alt="Lifestyle photo 3">
+  <img src="{{ site.baseurl }}/photos/lifestyle/IMG_8029.jpg" alt="Lifestyle photo 4">
+  <img src="{{ site.baseurl }}/photos/lifestyle/DSC5673.jpg" alt="Lifestyle photo 5">
+  <img src="{{ site.baseurl }}/photos/lifestyle/DSC5764.jpg" alt="Lifestyle photo 6">
+  <img src="{{ site.baseurl }}/photos/lifestyle/DSC5768.jpg" alt="Lifestyle photo 7">
+  <img src="{{ site.baseurl }}/photos/lifestyle/DSC5770.jpg" alt="Lifestyle photo 8">
 </div>
 
 ---
