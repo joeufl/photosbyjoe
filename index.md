@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graduation Photos
+title: Home
 ---
 
 # Graduation & portrait photos at UF
@@ -8,10 +8,8 @@ title: Graduation Photos
 Clean, campus-focused graduation photos with simple pricing and flexible packages.
 
 ## What I offer
-- Graduation sessions (primary)
+- Graduation sessions
 - Portrait sessions (individual, couples, lifestyle)
-- Individual graduation sessions
-- Friend add-ons
 - Multiple campus locations
 - Edited online gallery
 
@@ -50,9 +48,6 @@ Portrait sessions start at **$120** and can be customized based on location and 
 
 [Contact to book]({{ "/contact.html" | relative_url }})
 
-## Questions?
-
+## Questions or Ready to book?
 [See the FAQ]({{ "/faqs.html" | relative_url }})
-
-## Ready to book?
 [Contact / Book Here]({{ "/contact.html" | relative_url }})

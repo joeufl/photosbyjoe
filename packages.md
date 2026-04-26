@@ -7,22 +7,22 @@ title: Packages
 
 ## Graduation sessions
 
-## 1 location — $100
+### 1 location — $100
 - Up to 30 minutes
 - 1 campus location
 - Edited gallery
 
-## 2 locations — $150
+### 2 locations — $150
 - Up to 45 minutes
 - 2 campus locations
 - Edited gallery
 
-## 3 locations — $175
+### 3 locations — $175
 - Up to 60 minutes
 - 3 campus locations
 - Edited gallery
 
-## 5 locations — $200
+### 5 locations — $200
 - Up to 90 minutes
 - Up to 5 campus locations
 - Edited gallery
