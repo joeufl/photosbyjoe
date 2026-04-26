@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header img {
+  max-width: 150px;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+body {
+  color: #ffffff !important;
+}
+
+a {
+  color: #FA4616 !important;
+}
+
+a:hover {
+  color: #ffffff !important;
+}
+
+header h1 a,
+header h1 a:hover,
+header h1 a:visited {
+  color: #FA4616 !important;
+}
+
+header ul li a,
+header ul li a:hover,
+header ul li a:visited {
+  color: #FA4616 !important;
+}
