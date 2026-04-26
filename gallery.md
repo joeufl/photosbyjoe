@@ -16,14 +16,14 @@ title: Gallery
 ## Graduation {#graduation}
 
 <div class="gallery-grid">
-  <a href="{{ site.baseurl }}/photos/graduation/IMG_9428.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/IMG_9428.jpg" alt="Graduation photo 1"></a>
-  <a href="{{ site.baseurl }}/photos/graduation/IMG_9667.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/IMG_9667.jpg" alt="Graduation photo 2"></a>
-  <a href="{{ site.baseurl }}/photos/graduation/IMG_0218.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/IMG_0218.jpg" alt="Graduation photo 3"></a>
-  <a href="{{ site.baseurl }}/photos/graduation/IMG_0334.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/IMG_0334.jpg" alt="Graduation photo 4"></a>
-  <a href="{{ site.baseurl }}/photos/graduation/IMG_0345.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/IMG_0345.jpg" alt="Graduation photo 5"></a>
-  <a href="{{ site.baseurl }}/photos/graduation/IMG_1912.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/IMG_1912.jpg" alt="Graduation photo 6"></a>
-  <a href="{{ site.baseurl }}/photos/graduation/IMG_2066.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/IMG_2066.jpg" alt="Graduation photo 7"></a>
-  <a href="{{ site.baseurl }}/photos/graduation/IMG_2115.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/IMG_2115.jpg" alt="Graduation photo 8"></a>
+  <a href="{{ site.baseurl }}/photos/graduation/graduation-01.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/graduation-01.jpg" alt="Graduation photo 1"></a>
+  <a href="{{ site.baseurl }}/photos/graduation/graduation-02.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/graduation-02.jpg" alt="Graduation photo 2"></a>
+  <a href="{{ site.baseurl }}/photos/graduation/graduation-03.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/graduation-03.jpg" alt="Graduation photo 3"></a>
+  <a href="{{ site.baseurl }}/photos/graduation/graduation-04.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/graduation-04.jpg" alt="Graduation photo 4"></a>
+  <a href="{{ site.baseurl }}/photos/graduation/graduation-05.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/graduation-05.jpg" alt="Graduation photo 5"></a>
+  <a href="{{ site.baseurl }}/photos/graduation/graduation-06.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/graduation-06.jpg" alt="Graduation photo 6"></a>
+  <a href="{{ site.baseurl }}/photos/graduation/graduation-07.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/graduation-07.jpg" alt="Graduation photo 7"></a>
+  <a href="{{ site.baseurl }}/photos/graduation/graduation-08.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/graduation/graduation-08.jpg" alt="Graduation photo 8"></a>
 </div>
 
 ---
@@ -31,14 +31,14 @@ title: Gallery
 ## Lifestyle {#lifestyle}
 
 <div class="gallery-grid">
-  <a href="{{ site.baseurl }}/photos/lifestyle/DSC3453.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/DSC3453.jpg" alt="Lifestyle photo 1"></a>
-  <a href="{{ site.baseurl }}/photos/lifestyle/DSC3481.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/DSC3481.jpg" alt="Lifestyle photo 2"></a>
-  <a href="{{ site.baseurl }}/photos/lifestyle/IMG_7922.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/IMG_7922.jpg" alt="Lifestyle photo 3"></a>
-  <a href="{{ site.baseurl }}/photos/lifestyle/IMG_8029.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/IMG_8029.jpg" alt="Lifestyle photo 4"></a>
-  <a href="{{ site.baseurl }}/photos/lifestyle/DSC5673.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/DSC5673.jpg" alt="Lifestyle photo 5"></a>
-  <a href="{{ site.baseurl }}/photos/lifestyle/DSC5764.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/DSC5764.jpg" alt="Lifestyle photo 6"></a>
-  <a href="{{ site.baseurl }}/photos/lifestyle/DSC5768.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/DSC5768.jpg" alt="Lifestyle photo 7"></a>
-  <a href="{{ site.baseurl }}/photos/lifestyle/DSC5770.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/DSC5770.jpg" alt="Lifestyle photo 8"></a>
+  <a href="{{ site.baseurl }}/photos/lifestyle/lifestyle-01.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/lifestyle-01.jpg" alt="Lifestyle photo 1"></a>
+  <a href="{{ site.baseurl }}/photos/lifestyle/lifestyle-02.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/lifestyle-02.jpg" alt="Lifestyle photo 2"></a>
+  <a href="{{ site.baseurl }}/photos/lifestyle/lifestyle-03.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/lifestyle-03.jpg" alt="Lifestyle photo 3"></a>
+  <a href="{{ site.baseurl }}/photos/lifestyle/lifestyle-04.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/lifestyle-04.jpg" alt="Lifestyle photo 4"></a>
+  <a href="{{ site.baseurl }}/photos/lifestyle/lifestyle-05.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/lifestyle-05.jpg" alt="Lifestyle photo 5"></a>
+  <a href="{{ site.baseurl }}/photos/lifestyle/lifestyle-06.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/lifestyle-06.jpg" alt="Lifestyle photo 6"></a>
+  <a href="{{ site.baseurl }}/photos/lifestyle/lifestyle-07.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/lifestyle-07.jpg" alt="Lifestyle photo 7"></a>
+  <a href="{{ site.baseurl }}/photos/lifestyle/lifestyle-08.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/lifestyle/lifestyle-08.jpg" alt="Lifestyle photo 8"></a>
 </div>
 
 ---
@@ -46,9 +46,9 @@ title: Gallery
 ## Portrait {#portrait}
 
 <div class="gallery-grid">
-  <a href="{{ site.baseurl }}/photos/portrait/IMG_9500.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/portrait/IMG_9500.jpg" alt="Portrait photo 1"></a>
-  <a href="{{ site.baseurl }}/photos/portrait/DSC6983.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/portrait/DSC6983.jpg" alt="Portrait photo 2"></a>
-  <a href="{{ site.baseurl }}/photos/portrait/DSC6911.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/portrait/DSC6911.jpg" alt="Portrait photo 3"></a>
+  <a href="{{ site.baseurl }}/photos/portrait/portrait-01.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/portrait/portrait-01.jpg" alt="Portrait photo 1"></a>
+  <a href="{{ site.baseurl }}/photos/portrait/portrait-02.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/portrait/portrait-02.jpg" alt="Portrait photo 2"></a>
+  <a href="{{ site.baseurl }}/photos/portrait/portrait-03.jpg" class="glightbox"><img src="{{ site.baseurl }}/photos/portrait/portrait-03.jpg" alt="Portrait photo 3"></a>
 </div>
 
 ---
