@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* UF color overrides */
+body {
+  color: #ffffff;
+}
+
+header h1 a,
+header h1 a:hover {
+  color: #FA4616;
+}
+
+header ul li a,
+header ul li a:hover {
+  color: #FA4616;
+}
+
+a {
+  color: #FA4616;
+}
+
+a:hover {
+  color: #ffffff;
+}
