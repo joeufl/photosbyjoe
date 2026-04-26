@@ -6,10 +6,7 @@ title: FAQ
 # FAQ
 
 ## How many photos do I get?
-You receive an edited gallery. Final count depends on session length, location count, and variety.
-
-## Do you offer unlimited photos?
-The gallery includes the strongest edited images from the session. This keeps delivery clean and high quality.
+You receive an edited gallery. Final count depends on session length, location count, and variety. The gallery includes the strongest edited images from the session. This keeps delivery clean and high quality.
 
 ## What if it rains?
 We can reschedule based on weather and availability.
@@ -31,3 +28,6 @@ A deposit of 25% of your session total is required to hold your date. The remain
 
 ## Can I bring friends or family?
 Absolutely — friends and family are welcome to come along to the shoot.
+
+## What payment methods do you accept?
+Zelle, Venmo, Apple Cash, and cash.

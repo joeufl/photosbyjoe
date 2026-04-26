@@ -35,7 +35,7 @@ For non-graduation sessions (individual, couples, lifestyle):
 - Pricing based on time and location
 - Includes edited gallery
 
-Contact for a custom quote based on your idea.
+[Contact for a custom quote]({{ "/contact.html" | relative_url }}) based on your idea.
 
 ## Notes
 - Travel outside the standard campus area may cost extra.

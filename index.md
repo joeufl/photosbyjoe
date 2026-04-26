@@ -23,31 +23,30 @@ Clean, campus-focused graduation photos with simple pricing and flexible package
 
 ## Popular UF locations
 
-- Gator Walk (north of the Stadium)
-- Inside the Stadium
-- Bull Gator
+- The Swamp
+    - Gator Walk (north of the Stadium)
+    - Inside the Stadium
+    - Bull Gator
 - Murphree Area arch
 - Albert and Alberta
-- Your college sign
 - Plaza of the Americas
 - Century Tower
 - Library West
-- The stadium exterior
+- Your college sign
 - Your major's building
 
 ## Portrait sessions
 
-Looking for non-graduation photos?
+Looking for non-graduation photos? I also offer:
 
-I also offer:
 - Individual portraits
 - Couples sessions
 - Casual / lifestyle shoots
 
 Portrait sessions start at **$120** and can be customized based on location and time.
 
-[Contact to book]({{ "/contact.html" | relative_url }})
-
-## Questions or Ready to book?
+## Have Questions?
 [See the FAQ]({{ "/faqs.html" | relative_url }})
+
+## Ready to book?
 [Contact / Book Here]({{ "/contact.html" | relative_url }})

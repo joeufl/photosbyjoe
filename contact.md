@@ -13,8 +13,11 @@ Send:
 - Whether you want solo or group photos
 
 ## Reach out
-- Instagram: [`@joe.jpgs`](https://www.instagram.com/joe.jpgs/)
-- Email: [`photos@joeuong.com`](mailto:photos@joeuong.com)
+- Instagram: [@joe.jpgs](https://www.instagram.com/joe.jpgs/)
+- Email: [photos@joeuong.com](mailto:photos@joeuong.com)
+
+## Payment
+Zelle, Venmo, Apple Cash, and cash accepted.
 
 ## Booking note
 A deposit of 25% of your session total is required to hold your date. The remainder is due at or before the session.
