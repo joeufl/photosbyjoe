@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+header img {
+  max-width: 150px;
+  height: auto;
+}
+
 /* UF color overrides */
 body {
   color: #ffffff;
