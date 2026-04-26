@@ -33,3 +33,32 @@ header ul li a:hover,
 header ul li a:visited {
   color: #FA4616 !important;
 }
+
+.gallery-nav {
+  margin-bottom: 1.5em;
+  font-size: 1.1em;
+
+  a {
+    color: #FA4616 !important;
+    text-decoration: none;
+
+    &:hover {
+      color: #ffffff !important;
+    }
+  }
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 12px;
+  margin-bottom: 2em;
+
+  img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+    border-radius: 4px;
+  }
+}
