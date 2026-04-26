@@ -17,6 +17,6 @@ Send:
 - Email: [`photos@joeuong.com`](mailto:photos@joeuong.com)
 
 ## Booking note
-A deposit is required to hold your date. The deposit goes toward your session total — contact for the current amount.
+A deposit of 25% of your session total is required to hold your date. The remainder is due at or before the session.
 
 [See FAQ]({{ "/faqs.html" | relative_url }}) for common questions.
