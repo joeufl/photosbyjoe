@@ -7,22 +7,6 @@ title: Home
 
 Clean, campus-focused graduation photos with simple pricing and flexible packages.
 
-## Selected Work
-
-<div class="featured-work">
-  <a href="{{ site.baseurl }}/photos/featured/feature-01.jpg" class="glightbox">
-    <img
-      src="{{ site.baseurl }}/photos/featured/feature-01.jpg"
-      alt="Graduation portrait, Gainesville FL — selected for licensing by Minted"
-      class="featured-img"
-    >
-  </a>
-  <p class="featured-caption">
-    Graduation portrait &mdash; Gainesville, FL<br>
-    <small>Selected for licensing by <a href="https://www.minted.com/" target="_blank" rel="noopener">Minted</a></small>
-  </p>
-</div>
-
 ## What I offer
 - Graduation sessions
 - Portrait sessions (individual, couples, lifestyle)

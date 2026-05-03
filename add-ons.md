@@ -7,7 +7,7 @@ title: Add-Ons
 
 ## Popular add-ons
 - **Extra location** — $25
-- **Rush Delivery (48-hour)** — $40
+- **Rush Delivery (48-hour)** — $50
 - **Full gallery upgrade** — $100
   Receive every selectable image from the session instead of the curated highlights edit.
 

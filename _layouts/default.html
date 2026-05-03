@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
+    <meta property="og:image" content="{{ '/photos/featured/feature-01.jpg' | absolute_url }}">
     <link rel="icon" type="image/png" href="{{ '/assets/images/uong_logo.png' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
@@ -27,8 +28,7 @@
         {{ content }}
       </section>
       <footer>
-        <p><small>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</small></p>
-        <p><small><a href="https://www.instagram.com/joe.jpgs/">@joe.jpgs</a> on Instagram</small></p>
+        <p><small>&copy; {{ site.time | date: '%Y' }} Joe Uong &nbsp;&middot;&nbsp; <a href="https://www.instagram.com/joe.jpgs/">@joe.jpgs</a> on Instagram</small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
