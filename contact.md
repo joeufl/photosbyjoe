@@ -10,7 +10,6 @@ Send:
 - Your preferred date
 - Which package you want
 - Your ideal campus locations
-- Whether you want solo or group photos
 
 ## Reach out
 - Instagram: [@joe.jpgs](https://www.instagram.com/joe.jpgs/)
