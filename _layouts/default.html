@@ -2,7 +2,7 @@
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
     <meta property="og:image" content="{{ '/photos/featured/feature-01.jpg' | absolute_url }}">
     <link rel="icon" type="image/png" href="{{ '/assets/images/uong_logo.png' | relative_url }}">
@@ -10,11 +10,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <a href="{{ '/' | relative_url }}"><img src="{{ '/assets/images/uong_logo.png' | relative_url }}" alt="{{ site.title }} logo"></a>
-        <p>{{ site.description }}</p>
-        <ul>
+    <nav class="site-nav">
+      <div class="nav-inner">
+        <a href="{{ '/' | relative_url }}" class="nav-logo">
+          <img src="{{ '/assets/images/uong_logo.png' | relative_url }}" alt="{{ site.title }}">
+        </a>
+        <ul class="nav-links">
           <li><a href="{{ '/' | relative_url }}">Home</a></li>
           <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
           <li><a href="{{ '/packages.html' | relative_url }}">Packages</a></li>
@@ -23,15 +24,14 @@
           <li><a href="{{ '/faqs.html' | relative_url }}">FAQ</a></li>
           <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
         </ul>
-      </header>
-      <section>
-        {{ content }}
-      </section>
-      <footer>
-        <p><small>&copy; {{ site.time | date: '%Y' }} Joe Uong &nbsp;&middot;&nbsp; <a href="https://www.instagram.com/joe.jpgs/">@joe.jpgs</a> on Instagram</small></p>
-      </footer>
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+      </div>
+    </nav>
+    <main class="page-content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <p>&copy; {{ site.time | date: '%Y' }} Joe Uong &nbsp;&middot;&nbsp; <a href="https://www.instagram.com/joe.jpgs/" target="_blank" rel="noopener">@joe.jpgs</a> on Instagram</p>
+    </footer>
     <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
     <script>GLightbox();</script>
   </body>

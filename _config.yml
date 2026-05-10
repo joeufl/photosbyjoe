@@ -4,8 +4,6 @@ description: Graduation and portrait photos at UF. Simple packages, flexible loc
 baseurl: ""
 url: "https://photos.joeuong.com"
 
-theme: jekyll-theme-midnight
-
 markdown: kramdown
 kramdown:
   input: GFM
