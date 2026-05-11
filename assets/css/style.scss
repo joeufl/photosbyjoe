@@ -252,6 +252,29 @@ small { font-size: 0.85em; color: #999; }
   }
 }
 
+/* Hamburger button */
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+
+  span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: #aaa;
+    border-radius: 2px;
+    transition: background 0.15s;
+  }
+
+  &:hover span { background: #fff; }
+}
+
 /* Responsive */
 @media (max-width: 700px) {
   .nav-links { gap: 0.9rem; }
@@ -267,5 +290,29 @@ small { font-size: 0.85em; color: #999; }
 }
 
 @media (max-width: 480px) {
-  .nav-links { display: none; }
+  .nav-toggle { display: flex; }
+
+  .nav-links {
+    display: none;
+    position: fixed;
+    top: 56px;
+    left: 0;
+    right: 0;
+    background: rgba(20, 20, 20, 0.98);
+    border-bottom: 1px solid #222;
+    flex-direction: column;
+    gap: 0;
+    padding: 0.5rem 0;
+    z-index: 99;
+
+    &.nav-open { display: flex; }
+
+    li { width: 100%; }
+
+    a {
+      display: block;
+      padding: 0.75rem 1.5rem;
+      font-size: 0.85rem;
+    }
+  }
 }
