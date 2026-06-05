@@ -19,7 +19,12 @@ published: false
 - [ ] **Add a "How it works" section** to the home page or packages page: Book → Session → Delivery → Gallery. Sets clear expectations for first-time clients
 - [ ] **Expand the gallery** — portrait section only has 3 images; aim for at least 6–8 to match graduation and lifestyle
 - [x] **Add Instagram embed or link prominently** — currently only in the footer; consider a line in the gallery or home page pointing clients to recent work
+- [ ] **Clarify contact page "Send" instructions** — currently says "Send: [details]" with no destination; add "to photos@joeuong.com or Instagram DM" so clients know where to go
+- [ ] **Add photo count estimate to FAQ** — "How many photos do I get?" has no numbers; add a range like "typically 30–80 edited photos depending on package" to set expectations
+- [ ] **Add "What to wear" FAQ entry** — common question for portrait/lifestyle clients; a short answer (solid colors, avoid busy patterns, etc.) removes a friction point
+- [ ] **Add portrait session tiers to packages page** — currently just "starting at $120, customized"; add 2–3 tiers like graduation pricing for clarity
 - [ ] **Add turnaround time info** — clients often want to know when they'll receive their photos; add to FAQ or packages
+  - Note: FAQ already says "once your photos are ready" via Dropbox/iCloud — just needs a concrete timeframe (e.g. "within 1–2 weeks")
 
 ## SEO & Performance
 
@@ -31,9 +36,9 @@ published: false
 ## Booking & Contact
 
 - [ ] **Add a Calendly or booking link** — the contact page currently has no inline booking; even a Calendly embed or button removes friction for ready-to-book clients
+  - Low-effort first step: a mailto: link with pre-filled subject (`mailto:photos@joeuong.com?subject=Booking%20Request`)
 - [ ] **Add a response time note** to the contact page — e.g. "I typically respond within 24 hours" so clients know what to expect
 
 ## Housekeeping
 
-- [x] **Add `_-original.jpg` pattern to `.gitignore`** to prevent future accidental commits of uncompressed originals
-- [x] **Compress new photos before adding** — run `sips -Z 2400 --setProperty formatOptions 82 filename.jpg` on any new images before committing
+*(items previously listed here were duplicates of High Priority — removed)*
