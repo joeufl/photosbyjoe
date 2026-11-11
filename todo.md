@@ -20,11 +20,10 @@ published: false
 - [ ] **Expand the gallery** — portrait section only has 3 images; aim for at least 6–8 to match graduation and lifestyle
 - [x] **Add Instagram embed or link prominently** — currently only in the footer; consider a line in the gallery or home page pointing clients to recent work
 - [x] **Clarify contact page "Send" instructions** — contact page now directs clients to message @joe.jpgs on Instagram with their date, package, and locations
-- [ ] **Add photo count estimate to FAQ** — "How many photos do I get?" has no numbers; add a range like "typically 30–80 edited photos depending on package" to set expectations
+- [x] **Add photo count estimate to FAQ** — FAQ now says 10 to 25–30 edited photos for graduation sessions and about 10 for portrait sessions
 - [ ] **Add "What to wear" FAQ entry** — common question for portrait/lifestyle clients; a short answer (solid colors, avoid busy patterns, etc.) removes a friction point
-- [ ] **Add portrait session tiers to packages page** — currently just "starting at $120, customized"; add 2–3 tiers like graduation pricing for clarity
-- [ ] **Add turnaround time info** — clients often want to know when they'll receive their photos; add to FAQ or packages
-  - Note: FAQ already says "once your photos are ready" via Dropbox/iCloud — just needs a concrete timeframe (e.g. "within 1–2 weeks")
+- [x] **Add portrait session tiers to packages page** — Mini ($120), Standard ($175), and Extended ($225) tiers added
+- [x] **Add turnaround time info** — FAQ now states standard delivery is 1–2 weeks, matching the add-ons page
 
 ## SEO & Performance
 

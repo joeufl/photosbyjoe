@@ -6,7 +6,7 @@ title: FAQ
 # FAQ
 
 ## How many photos do I get?
-You receive an edited gallery. Final count depends on session length, location count, and variety. The gallery includes the strongest edited images from the session. This keeps delivery clean and high quality.
+Graduation sessions include at least 10 edited photos and up to 25–30, depending on session length, location count, and variety. Portrait sessions include about 10 edited photos for a Mini session and up to 25–30 for an Extended session. The gallery includes the strongest edited images from the session. This keeps delivery clean and high quality.
 
 ## What if it rains?
 We can reschedule based on weather and availability.
@@ -21,7 +21,7 @@ Send your preferred date, package, and a rough idea of locations through the [co
 Please book at least one week before your session. Earlier is better, especially during graduation season when dates fill up quickly.
 
 ## How do I receive my photos?
-You'll receive a link to your edited gallery via Dropbox or iCloud once your photos are ready.
+You'll receive a link to your edited gallery via Dropbox or iCloud. Standard delivery is 1–2 weeks after the session, or 48 hours with the Rush Delivery add-on.
 
 ## What's the deposit?
 A deposit of 25% of your session total is required to hold your date. The remainder is due at or before the session.
