@@ -6,7 +6,7 @@ title: FAQ
 # FAQ
 
 ## How many photos do I get?
-Graduation sessions include at least 10 edited photos and up to 25–30, depending on session length, location count, and variety. Portrait sessions include about 10 edited photos. The gallery includes the strongest edited images from the session. This keeps delivery clean and high quality.
+Graduation sessions include at least 10 edited photos and up to 25–30, depending on session length, location count, and variety. Portrait sessions include about 10 edited photos for a Mini session and up to 25–30 for an Extended session. The gallery includes the strongest edited images from the session. This keeps delivery clean and high quality.
 
 ## What if it rains?
 We can reschedule based on weather and availability.

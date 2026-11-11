@@ -31,11 +31,22 @@ title: Packages
 
 For non-graduation sessions (individual, couples, lifestyle):
 
-- Starting at **$120**
-- Pricing based on time and location
-- Includes edited gallery
+### Mini — $120
+- Up to 30 minutes
+- 1 location
+- About 10 edited photos
 
-[Contact for a custom quote]({{ "/contact.html" | relative_url }}) based on your idea.
+### Standard — $175
+- Up to 60 minutes
+- Up to 2 locations
+- About 15–20 edited photos
+
+### Extended — $225
+- Up to 90 minutes
+- Up to 3 locations
+- About 25–30 edited photos
+
+Have something else in mind? [Contact for a custom quote]({{ "/contact.html" | relative_url }}) based on your idea.
 
 ## Notes
 - Travel outside the standard campus area may cost extra.
