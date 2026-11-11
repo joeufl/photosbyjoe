@@ -36,7 +36,6 @@ published: false
 ## Booking & Contact
 
 - [ ] **Add a Calendly or booking link** — the contact page currently has no inline booking; even a Calendly embed or button removes friction for ready-to-book clients
-  - Low-effort first step: a mailto: link with pre-filled subject (`mailto:photos@joeuong.com?subject=Booking%20Request`)
 - [ ] **Add a response time note** to the contact page — e.g. "I typically respond within 24 hours" so clients know what to expect
 
 ## Housekeeping
