@@ -6,14 +6,12 @@ title: Contact
 # Contact
 
 ## Book a session
-Send:
+Message me on Instagram at [@joe.jpgs](https://www.instagram.com/joe.jpgs/) with:
 - Your preferred date
 - Which package you want
 - Your ideal campus locations
 
-## Reach out
-- Instagram: [@joe.jpgs](https://www.instagram.com/joe.jpgs/)
-- Email: [photos@joeuong.com](mailto:photos@joeuong.com)
+[Message @joe.jpgs on Instagram](https://www.instagram.com/joe.jpgs/)
 
 ## Payment
 Zelle, Venmo, Apple Cash, and cash accepted.
