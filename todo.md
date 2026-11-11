@@ -19,7 +19,7 @@ published: false
 - [ ] **Add a "How it works" section** to the home page or packages page: Book → Session → Delivery → Gallery. Sets clear expectations for first-time clients
 - [ ] **Expand the gallery** — portrait section only has 3 images; aim for at least 6–8 to match graduation and lifestyle
 - [x] **Add Instagram embed or link prominently** — currently only in the footer; consider a line in the gallery or home page pointing clients to recent work
-- [ ] **Clarify contact page "Send" instructions** — currently says "Send: [details]" with no destination; add "to photos@joeuong.com or Instagram DM" so clients know where to go
+- [x] **Clarify contact page "Send" instructions** — contact page now directs clients to message @joe.jpgs on Instagram with their date, package, and locations
 - [ ] **Add photo count estimate to FAQ** — "How many photos do I get?" has no numbers; add a range like "typically 30–80 edited photos depending on package" to set expectations
 - [ ] **Add "What to wear" FAQ entry** — common question for portrait/lifestyle clients; a short answer (solid colors, avoid busy patterns, etc.) removes a friction point
 - [ ] **Add portrait session tiers to packages page** — currently just "starting at $120, customized"; add 2–3 tiers like graduation pricing for clarity
