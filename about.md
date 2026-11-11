@@ -15,6 +15,7 @@ My work has been selected for licensing by [Minted](https://www.minted.com/), a 
 
 - Canon EOS R50 (RF Mount)
 - RF 50mm F1.8 STM — primary
+- RF 28-70mm F2.8 IS STM
 - RF 55–210mm F5–7.1 IS STM — travel / backup
 - Pocket Dispo — niche / film look
 
